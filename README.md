@@ -1,8 +1,11 @@
 # TireWise
 TireWise is a comprehensive Android application designed to help users monitor and manage the health of their vehicle's tires. By leveraging on-device machine learning, users can instantly assess tire conditions, track scan history, and set maintenance reminders, ensuring vehicle safety and longevity.
 
-# Link to Video Pitch: [(https://youtu.be/tOAmqhrFSu4)]
-# Link to App Demo: [(https://youtu.be/0GDE8-tsXek)]
+## 📽️ Project Videos
+
+- 🎤 [Video Pitch](https://youtu.be/tOAmqhrFSu4) – Brief overview and concept explanation.
+- 📱 [App Demo](https://youtu.be/0GDE8-tsXek) – Live walkthrough of the application's features and functionality.
+
 
 ## Features
 
