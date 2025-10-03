@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "612463355196",
+    "project_id": "tirewise-42388",
+    "storage_bucket": "tirewise-42388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612463355196:android:4beff4c1f80b7c09d46a39",
+        "android_client_info": {
+          "package_name": "com.mrm.tirewise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612463355196-35ii34bdi193k29k7759uar7aefu7c21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrm.tirewise",
+            "certificate_hash": "a9f0f2028366e597f0041265effad30bdc48f49c"
+          }
+        },
+        {
+          "client_id": "612463355196-df2s0sl06b6d1s5p10mjmvakkfb8dnm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBVAF0avDZN5BoCjG-dOGPBrT1brunrGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612463355196-df2s0sl06b6d1s5p10mjmvakkfb8dnm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

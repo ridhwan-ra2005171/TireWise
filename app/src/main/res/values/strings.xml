@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TireWise</string>
+    <string name="google_auth_server_ID" translatable="false">612463355196-df2s0sl06b6d1s5p10mjmvakkfb8dnm3.apps.googleusercontent.com</string>
+    <string name="permission_camera_declined">It seems you permanently declined camera permission.\nYou can go to the app settings to grant it.</string>
+    <string name="permission_camera_request">This app needs access to your camera to use its features.</string>
+
+    <string name="take_photo">Take Photo</string>
+    <string name="view_all_tire_history">View All Previous Tire Scans</string>
+    <string name="back_right_tire_history">Back Right</string>
+    <string name="front_right_tire_history">Front Right</string>
+    <string name="front_left_tire_history">Front Left</string>
+    <string name="back_left_tire_history">Back Left</string>
+    <string name="title_view_tire_history">View Previous Tire Scans</string>
+    <string name="title_current_reminders">Current Reminders</string>
+    <string name="reminder_channel_id">reminder_channel_id\t\t\t\t\t\t\t</string>
+    <string name="reminder_notification_channel">Reminder Notification</string>
+</resources>
